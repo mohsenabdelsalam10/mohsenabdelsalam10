@@ -4,7 +4,7 @@
 
 ### Surveying, Cartography & GIS Student
 
-**Building geospatial solutions with GIS, Spatial Analysis, Remote Sensing & Python.**
+**Building geospatial solutions with GIS | Spatial Analysis | Remote Sensing & Python.**
 
 <p>
 
@@ -28,43 +28,49 @@
 
 # 🚀 About Me
 
-I am an undergraduate student specializing in **Surveying, Cartography, and Geographic Information Systems (GIS)** at **Mansoura University**.
-
-I enjoy solving real-world problems using geospatial technologies and transforming spatial data into meaningful insights.
-
-My current focus is developing professional GIS projects, strengthening my expertise in spatial analysis, and learning Python to automate geospatial workflows.
-
-I am actively preparing for internships, freelance opportunities, and entry-level GIS roles while building a strong technical portfolio.
+I am an undergraduate student specializing in **Surveying, Cartography, and Geographic Information Systems (GIS)** at **Mansoura University**. I am building practical geospatial solutions through GIS, surveying, and spatial analysis. My focus is on developing real-world projects, expanding my expertise in geospatial technologies, and creating professional mapping solutions for research and industry applications.
 
 ---
 
 # 💼 Technical Skills
 
-### GIS & Geospatial
-- ArcGIS Pro
-- ArcMap
-- QGIS
-- Spatial Analysis
-- Cartography
-- Georeferencing
-- Digitizing
-- Map Design
-- Spatial Data Management
+<table>
+<tr>
+<td width="25%"><b>🛰️ GIS</b></td>
+<td>ArcGIS Pro • ArcMap • QGIS</td>
+</tr>
 
-### Surveying
-- Land Surveying
-- GPS Data Collection
-- Map Measurement
+<tr>
+<td><b>🌍 Spatial Analysis</b></td>
+<td>Overlay • Buffer • Geoprocessing • Spatial Query</td>
+</tr>
 
-### Programming
-- Python
-- SQL
+<tr>
+<td><b>🗺️ Cartography</b></td>
+<td>Map Design • Layout • Georeferencing • Digitizing</td>
+</tr>
 
-### Tools
-- Git
-- GitHub
-- Visual Studio Code
-- Microsoft Office
+<tr>
+<td><b>📐 Surveying</b></td>
+<td>Land Surveying • GPS • Map Measurement</td>
+</tr>
+
+<tr>
+<td><b>🌐 Remote Sensing</b></td>
+<td>Raster Processing • Satellite Imagery • Image Interpretation</td>
+</tr>
+
+<tr>
+<td><b>💻 Programming</b></td>
+<td>Python • SQL</td>
+</tr>
+
+<tr>
+<td><b>🧰 Tools</b></td>
+<td>Git • GitHub • VS Code • Microsoft Office</td>
+</tr>
+
+</table>
 
 ---
 
