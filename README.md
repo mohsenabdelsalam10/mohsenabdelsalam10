@@ -11,15 +11,15 @@
 <br>
 
 <a href="https://linkedin.com/in/mohsen-abdelsalam-2131a538b">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohsenabdelsalam@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-1E40AF?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mohsenabdelsalam10">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
