@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Mohsen Mohsen Abdel Salam
 
-### GIS & Surveying Student | ArcGIS Pro | Spatial Analysis | Cartography | Python Learner
+### Surveying, Cartography & GIS Student
 
-📍 Dakahlia, Egypt
+**Building geospatial solutions with GIS, Spatial Analysis, Remote Sensing & Python.**
 
-<p align="center">
+<p>
 
 <a href="mailto:mohsenabdelsalam@outlook.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mohsen-abdelsalam-2131a538b">
@@ -26,44 +26,41 @@
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Undergraduate student in **Surveying, Cartography & Geographic Information Systems (GIS)** at the **Faculty of Arts, Mansoura University**.
+I am an undergraduate student specializing in **Surveying, Cartography, and Geographic Information Systems (GIS)** at **Mansoura University**.
 
-🗺️ Passionate about GIS, Cartography, Surveying, Spatial Analysis, and Remote Sensing.
+I enjoy solving real-world problems using geospatial technologies and transforming spatial data into meaningful insights.
 
-🌱 Currently learning **Python for GIS**, SQL, and Geospatial Data Analysis.
+My current focus is developing professional GIS projects, strengthening my expertise in spatial analysis, and learning Python to automate geospatial workflows.
 
-🚀 Looking for internship, freelance, and entry-level opportunities to apply my GIS skills and build real-world geospatial solutions.
+I am actively preparing for internships, freelance opportunities, and entry-level GIS roles while building a strong technical portfolio.
 
 ---
 
-# 🛠 Technical Skills
+# 💼 Technical Skills
 
-### 🗺️ GIS Software
+### GIS & Geospatial
 - ArcGIS Pro
 - ArcMap
-- QGIS (Learning)
+- QGIS
+- Spatial Analysis
+- Cartography
+- Georeferencing
+- Digitizing
+- Map Design
+- Spatial Data Management
 
-### 📐 Surveying
+### Surveying
 - Land Surveying
 - GPS Data Collection
 - Map Measurement
 
-### 🌍 GIS & Mapping
-- Geographic Information Systems (GIS)
-- Cartography
-- Spatial Analysis
-- Spatial Data Management
-- Georeferencing
-- Digitizing
-- Map Design
+### Programming
+- Python
+- SQL
 
-### 💻 Programming
-- Python (Learning)
-- SQL (Learning)
-
-### 🧰 Tools
+### Tools
 - Git
 - GitHub
 - Visual Studio Code
@@ -71,22 +68,23 @@
 
 ---
 
-# 🎯 2026 Goals
+# 🌍 Areas of Interest
 
-- ✅ Build 15+ Professional GIS Projects
-- ✅ Master ArcGIS Pro
-- ✅ Learn Python for GIS
-- ✅ Learn SQL & PostGIS
-- ✅ Start Freelancing
-- ✅ Share GIS Knowledge on LinkedIn
-
+- Geographic Information Systems (GIS)
+- Spatial Analysis
+- Remote Sensing
+- Digital Cartography
+- Surveying & Geomatics
+- Python for GIS
+- Web GIS
+- Spatial Databases (PostGIS)
+- Google Earth Engine
+- GIS Automation
 
 ---
 
 <div align="center">
 
-## 🚀 Let's Connect and Build Amazing GIS Projects!
-
-⭐ Feel free to explore my repositories and connect with me on LinkedIn.
+### ⭐ Turning Spatial Data into Meaningful Insights
 
 </div>
