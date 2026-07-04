@@ -1,63 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mohsen Mohsen Abdel Salam</h1>
+<div align="center">
 
-<h3 align="center">
-GIS & Surveying Student | ArcGIS Pro | Spatial Analysis | Cartography | Python Learner
-</h3>
+# 👋 Hi, I'm Mohsen Mohsen Abdel Salam
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Surveying+%26+GIS+Student;ArcGIS+Pro+Enthusiast;Future+GIS+Analyst;Learning+Python+for+GIS;Building+Real-World+GIS+Projects" />
-</p>
+### 🛰️ GIS & Surveying Student | ArcGIS Pro | Spatial Analysis | Cartography | Python Learner
+
+📍 Dakahlia, Egypt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-abdelsalam-2131a538b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsenabdelsalam822@gmail.com)
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Surveying, Cartography & Geographic Information Systems (GIS) Student
+🎓 Surveying, Cartography & Geographic Information Systems (GIS) Student at **Faculty of Arts, Mansoura University**.
 
-🏛️ Faculty of Arts, Mansoura University
+🗺️ Passionate about GIS, Surveying, Cartography, Spatial Analysis, and Remote Sensing.
 
-🗺️ Passionate about GIS, Spatial Analysis, Cartography, and Remote Sensing
+🌱 Currently learning **Python for GIS**, SQL, and Geospatial Data Analysis.
 
-🌱 Currently learning Python for GIS Automation
-
-🎯 Interested in GIS Analysis, Mapping, and Freelancing
-
-📍 Dakahlia, Egypt
+🎯 My goal is to become a professional GIS Analyst and build real-world geospatial solutions.
 
 ---
 
 # 🛠 Technical Skills
 
-### GIS Software
-
+### 🗺️ GIS Software
 - ArcGIS Pro
 - ArcMap
-- QGIS (Basic)
+- QGIS (Learning)
 
-### Surveying
-
+### 📐 Surveying
 - Land Surveying
 - GPS Data Collection
-- Field Surveying
 - Map Measurement
 
-### GIS & Mapping
-
+### 🌍 GIS & Mapping
 - Geographic Information Systems (GIS)
 - Cartography
 - Spatial Analysis
 - Spatial Data Management
-- Map Design
 - Georeferencing
 - Digitizing
+- Map Design
 
-### Programming
-
+### 💻 Programming
 - Python (Learning)
 - SQL (Learning)
 
-### Tools
-
+### 🧰 Tools
 - Git
 - GitHub
 - Visual Studio Code
@@ -65,19 +58,14 @@ GIS & Surveying Student | ArcGIS Pro | Spatial Analysis | Cartography | Python L
 
 ---
 
-# 💻 Languages & Tools
+# 🚀 Current Learning
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+- Advanced ArcGIS Pro
+- Python for GIS
+- SQL
+- PostGIS
+- Remote Sensing
+- Google Earth Engine
 
 ---
 
@@ -95,11 +83,7 @@ GIS & Surveying Student | ArcGIS Pro | Spatial Analysis | Cartography | Python L
 
 📍 Suitability Analysis
 
-🛰️ Remote Sensing Project
-
-📐 Surveying Project
-
-> More GIS projects coming soon...
+> More GIS projects will be added soon.
 
 ---
 
@@ -107,9 +91,9 @@ GIS & Surveying Student | ArcGIS Pro | Spatial Analysis | Cartography | Python L
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohsenabdelsalam10&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenabdelsalam10&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -119,26 +103,42 @@ GIS & Surveying Student | ArcGIS Pro | Spatial Analysis | Cartography | Python L
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mohsenabdelsalam10&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌍 Connect with Me
+# 📈 Contribution Graph
 
-<p>
+<p align="center">
 
-📧 Email:
-your-email@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/your-linkedin
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsenabdelsalam10&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🚀 Career Goal
+# 📫 Connect With Me
 
-To become a professional GIS Analyst specializing in Spatial Analysis, Remote Sensing, Surveying, and Python for GIS while contributing to impactful geospatial projects worldwide.
+📧 **Email**
+
+mohsenabdelsalam822@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/mohsen-abdelsalam-2131a538b
+
+🐙 **GitHub**
+
+https://github.com/mohsenabdelsalam10
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning spatial data into meaningful insights."*
+
+</div>
