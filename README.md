@@ -1,26 +1,30 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohsen Mohsen Abdel Salam
+# 👋 Hi there, I'm Mohsen Abdel Salam
 
-### Surveying, Cartography & GIS Student
+### 🛰️ Geospatial Technology Enthusiast
 
-**Building geospatial solutions with GIS | Spatial Analysis | Remote Sensing & Python.**
+**Surveying • GIS • Spatial Analysis • Remote Sensing • Python**
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2E86DE&center=true&vCenter=true&width=700&lines=Building+Professional+GIS+Projects;Future+GIS+Analyst;ArcGIS+Pro+%7C+Python+%7C+Remote+Sensing;Turning+Spatial+Data+into+Meaningful+Insights" />
 
-<a href="mailto:mohsenabdelsalam@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://linkedin.com/in/mohsen-abdelsalam-2131a538b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohsenabdelsalam@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mohsenabdelsalam10">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohsenabdelsalam10&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
