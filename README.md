@@ -80,11 +80,6 @@
 - ✅ Start Freelancing
 - ✅ Share GIS Knowledge on LinkedIn
 
----
-
-# 📂 Featured Projects
-
-> 🚧 More professional GIS projects will be added soon.
 
 ---
 
